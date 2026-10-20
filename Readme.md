@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Светлана Чустеева](https://up.htmlacademy.ru/javascript-individual/3/user/2713023).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Подопригора](https://htmlacademy.ru/profile/id2387199)
 
 ---
 
